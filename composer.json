@@ -8,5 +8,10 @@
             "email": "ehlers-dev@gmx.de"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EhlersDev\\Wepede\\": "src"
+        }
+    }
 }
