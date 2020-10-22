@@ -1,0 +1,12 @@
+{
+    "name": "ehlers-dev/wepede",
+    "description": "wordpress plugin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Christoph Ehlers",
+            "email": "ehlers-dev@gmx.de"
+        }
+    ],
+    "require": {}
+}
